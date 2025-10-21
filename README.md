@@ -1,6 +1,7 @@
 # ChainPlusTrader
 
 A professional cross-chain automated DeFi trading platform that executes real trades across Ethereum, Base, BNB Chain, and Solana networks.
+<img width="1012" height="943" alt="aipin-cross-trading" src="https://github.com/user-attachments/assets/9c413b99-8f3b-47f8-8ca6-80b9647bfec7" />
 
 ## 🚀 Features
 
@@ -238,4 +239,6 @@ For issues and questions:
 
 ---
 
-**Built with ❤️ for the DeFi community**
+**Built with ❤️ for the DeFi community** 
+
+**AI PIN** (https://ai-pin.io)
